@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mini Shail Chhabra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
 
- 
+
   ## :wave: About Me 
 
 👩‍🎓 Hey! I'm Mini, a Computer Science Junior at **Manipal Institute of Technology**
