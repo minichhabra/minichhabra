@@ -8,8 +8,6 @@
 
 👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/Mini121/) and always up for quick coding brainstorming sessions! 
 
-### ⚡ Fun Fact
-An ambitious girl who loves to day dream at nights and sleep talk about life and code.😉😉
 
 <br> 
 
