@@ -6,7 +6,7 @@
 
 👩‍🎓 Hey! I'm Mini, a Computer Science Junior at **Manipal Institute of Technology**
 
-👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/Mini121/) and always up for quick coding brainstorming sessions! 
+👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/) and always up for quick coding brainstorming sessions! 
 
 
 <br> 
